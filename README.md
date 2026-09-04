@@ -29,7 +29,7 @@ Perfect as a **starter template for beginners** learning front-end, or as a land
 
 ```bash
 # 1. Clone it
-git clone https://github.com/YOUR-USERNAME/novatrend-template.git
+git clone https://github.com/v01dst/novatrend-template.git
 cd novatrend-template
 
 # 2. Run it — pick ONE:
